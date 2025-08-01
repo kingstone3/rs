@@ -1,0 +1,9 @@
+[package]
+name = "bubble-sort"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+name = "bubble_sort"
+path = "src/lib.rs"
+
